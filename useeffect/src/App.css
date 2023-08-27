@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.advicebox{
+    color:rgb(102, 83, 49);
+    background-color: rgb(231, 198, 127);
+    width:450px;
+    height:150px;
+    padding:38px;
+    margin:0 auto;
+    margin-top: 230px;
+    border:3px solid rgb(236, 176, 65);
+}
